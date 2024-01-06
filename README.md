@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**EnryMarch10/EnryMarch10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋 Author
 
-Here are some ideas to get you started:
+Hi, I'm Enrico Marchionni 🇮🇹 ([@EnryMarch10](https://github.com/EnryMarch10)). I'm attending [Computer Science and Engeneering](https://corsi.unibo.it/1cycle/ComputerScienceEngineering) at the [Alma Mater Studiorum - University of Bologna](https://www.unibo.it/en).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 Learning
+
+- C
+- Java
+- C#
+- SQL
+- Python
+- C++
+- UML
+- HTML
+- CSS
+- PHP
+- JavaScript
+- ...
+
+## 📊 Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnryMarch10&show_icons=true&theme=transparent)
