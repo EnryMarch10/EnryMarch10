@@ -8,6 +8,7 @@ Hi, I'm Enrico Marchionni 🇮🇹 ([@EnryMarch10](https://github.com/EnryMarch1
 
 - C
 - Java
+- Bash
 - C#
 - SQL
 - Python
