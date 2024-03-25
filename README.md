@@ -6,19 +6,7 @@ Hi, I'm Enrico Marchionni 🇮🇹 ([@EnryMarch10](https://github.com/EnryMarch1
 
 ## 📖 Learning
 
-- C
-- Java
-- Bash
-- C#
-- SQL
-- Python
-- C++
-- UML
-- HTML
-- CSS
-- PHP
-- JavaScript
-- ...
+C, Java, Bash, C#, SQL, Python, C++, UML, HTML, CSS, PHP, JavaScript...
 
 ## 📊 Stats
 
