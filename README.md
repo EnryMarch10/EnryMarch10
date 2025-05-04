@@ -1,15 +1,38 @@
-# Hello there 👋
+# Enrico Marchionni
 
-## 🙋 Author
+I'm a student in computer science and engeneering at the [Alma Mater Studiorum - University of Bologna](https://www.unibo.it/en).
 
-Hi, I'm Enrico Marchionni 🇮🇹 ([@EnryMarch10](https://github.com/EnryMarch10)). I'm attending [Computer Science and Engeneering](https://corsi.unibo.it/1cycle/ComputerScienceEngineering) at the [Alma Mater Studiorum - University of Bologna](https://www.unibo.it/en).
+## 📖 Mottos
 
-## 📖 Learning
+### General
 
-C, Java, Bash, C#, SQL, Python, C++, UML, HTML, CSS, PHP, JavaScript...
+> **DRY** (don't repeat yourself):
+> Ensure that all code is unique and avoid duplication.
+
+> **KISS** (keep it simple, stupid):
+> Prioritize understandability! In most cases, simplicity is best.
+
+### SOLID
+
+> **SRP** (single responsability principle):
+> "Software entities (ex. classes) should have only one reason to change."
+
+> **OCP** (open/closed principle):
+> "Software entities should be open for extension but closed for modification."
+
+> **DIP** (dependency inversion principle):
+> "High-level modules should not depend on low-level modules. Both should depend on abstractions."
 
 ## 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnryMarch10&show_icons=true&theme=transparent)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnryMarch10&layout=compact&theme=transparent)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EnryMarch10&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnryMarch10&theme=dracula&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnryMarch10&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnryMarch10&layout=compact&theme=dracula)
+
+</div>
