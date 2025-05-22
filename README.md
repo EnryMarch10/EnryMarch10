@@ -1,5 +1,7 @@
 # Enrico Marchionni
 
+[![Views Counter](https://komarev.com/ghpvc/?username=EnryMarch10&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
+
 I'm a student in computer science and engeneering at the [Alma Mater Studiorum - University of Bologna](https://www.unibo.it/en).
 
 ## 📖 Mottos
