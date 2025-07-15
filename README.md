@@ -31,7 +31,7 @@ I'm a student in computer science and engeneering at the [Alma Mater Studiorum -
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=EnryMarch10&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EnryMarch10&theme=dracula&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EnryMarch10&theme=dracula&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnryMarch10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
