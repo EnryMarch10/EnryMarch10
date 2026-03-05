@@ -4,7 +4,15 @@
 
 I'm a student in Computer Science and Engineering 💻 at the [Alma Mater Studiorum - University of Bologna](https://www.unibo.it/en).
 
-## 📖 Philosophy
+## 📖 Philosophy of Software Development
+
+### Project Phases *(not strictly in waterfall)*
+
+- **Requirements**
+- **Design & Implementation**
+- **Testing, Deployment & Maintenance**
+
+### Adaptive Project Phases
 
 Take a look at the [Agile Manifesto](https://agilemanifesto.org/) initiative of 2001.
 
