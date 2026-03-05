@@ -2,11 +2,21 @@
 
 [![Views Counter](https://komarev.com/ghpvc/?username=EnryMarch10&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
 
-I'm a student in computer science and engeneering at the [Alma Mater Studiorum - University of Bologna](https://www.unibo.it/en).
+I'm a student in Computer Science and Engineering 💻 at the [Alma Mater Studiorum - University of Bologna](https://www.unibo.it/en).
 
-## 📖 Mottos
+## 📖 Philosophy
 
-### General
+Take a look at the [Agile Manifesto](https://agilemanifesto.org/) initiative of 2001.
+
+> Do not refuse change, rather embrace it.
+
+## ⚙️ Software Engineering Principles
+
+Rigour & formality, separation of concerns, modularity, abstraction, anticipation of change, generality, incrementality
+
+### 🧑‍💻 Programming Principles
+
+#### General
 
 > **DRY** (don't repeat yourself):
 > Ensure that all code is unique and avoid duplication.
@@ -14,13 +24,19 @@ I'm a student in computer science and engeneering at the [Alma Mater Studiorum -
 > **KISS** (keep it simple, stupid):
 > Prioritize understandability! In most cases, simplicity is best.
 
-### SOLID
+#### OOP - SOLID
 
 > **SRP** (single responsability principle):
 > "Software entities (ex. classes) should have only one reason to change."
 
 > **OCP** (open/closed principle):
 > "Software entities should be open for extension but closed for modification."
+
+> **LSP** (Liskov's substituability principle):
+> "Extended code must be substituable for their base version."
+
+> **ISP** (Interface segregation principle):
+> "Make fine grained abstractions that are client specific."
 
 > **DIP** (dependency inversion principle):
 > "High-level modules should not depend on low-level modules. Both should depend on abstractions."
