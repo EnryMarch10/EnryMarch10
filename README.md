@@ -53,12 +53,20 @@ Rigour & formality, separation of concerns, modularity, abstraction, anticipatio
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=EnryMarch10&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=EnryMarch10&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EnryMarch10&theme=dracula&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=EnryMarch10&theme=dracula&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnryMarch10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Stats](https://github-readme-stats.vercel.app/api?username=EnryMarch10&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnryMarch10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnryMarch10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+![Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
+
+<!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
 </div>
