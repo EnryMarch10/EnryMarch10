@@ -6,7 +6,7 @@ on:
       - main
   schedule:
     # - cron: "0 0 * * *"
-    - cron: "8 */6 * * *"
+    - cron: "43 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -34,14 +34,6 @@ jobs:
           options: username=${{ github.repository_owner }}&theme=dracula&layout=compact&langs_count=6
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      # - name: Generate pin card
-      #   uses: readme-tools/github-readme-stats-action@v1
-      #   with:
-      #     card: pin
-      #     options: username=readme-tools&repo=github-readme-stats&theme=dracula
-      #     path: profile/pin-readme-tools-github-readme-stats.svg
-      #     token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
