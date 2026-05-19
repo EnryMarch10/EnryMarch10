@@ -8,9 +8,19 @@ I'm a student in Computer Science and Engineering 💻 at the [Alma Mater Studio
 
 ### Project Phases *(not strictly in waterfall)*
 
-- **Requirements**
-- **Design & Implementation**
-- **Testing, Deployment & Maintenance**
+1. ***Requirements engineering***
+    - which behaviour? <ins>Specification document</ins>
+2. ***Design***
+    - ***Architectural***
+      - which macro structure? <ins>System architecture document</ins>
+    - ***Detailed***
+      - which micro structure? <ins>Detailed design document</ins>
+3. ***Implementation***
+    - which runnable code? <ins>Working code repository</ins>
+4. ***Testing*** and ***Maintenance***
+    - which requirements are met? <ins>Satisfying and tested code repository</ins>
+5. ***Deployment***
+    - is the system successfully online? <ins>Running system</ins>
 
 ### Adaptive Project Phases
 
