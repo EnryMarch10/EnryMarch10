@@ -63,10 +63,10 @@ Rigour & formality, separation of concerns, modularity, abstraction, anticipatio
 
 <div align="center">
 
-![Streak](./profile/streak.svg)
+![Streak](https://raw.githubusercontent.com/EnryMarch10/EnryMarch10/output/streak.svg)
 
-![Stats](./profile/stats.svg)
+![Stats](https://raw.githubusercontent.com/EnryMarch10/EnryMarch10/output/stats.svg)
 
-![Top Languages](./profile/top-langs.svg)
+![Top Languages](https://raw.githubusercontent.com/EnryMarch10/EnryMarch10/output/top-langs.svg)
 
 </div>
