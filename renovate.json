@@ -6,7 +6,7 @@
     ":semanticCommitsDisabled"
   ],
   "timezone": "Europe/Rome",
-  "schedule": ["before 6am on monday"],
+  "schedule": ["at any time"],
   "minimumReleaseAge": "3 days",
   "dependencyDashboard": true,
   "packageRules": [
